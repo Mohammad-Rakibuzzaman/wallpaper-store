@@ -16,5 +16,4 @@ npm install express mongoose dotenv
 
 * add **type** inside of package.json to use module or modern way to import export
 
-* Now write server.js file": 
-![This is an alt text.](https://prnt.sc/40gJrb1bevsS "This is a sample image.")
+* Now write server.js file": [server.js](https://prnt.sc/pLRCYHB_d1TX)
