@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mohammad-Rakibuzzaman/wallpaper-store.git"
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Mohammad-Rakibuzzaman/wallpaper-store/issues"
   },
-  "homepage": "https://github.com/Mohammad-Rakibuzzaman/wallpaper-store#readme"
+  "homepage": "https://github.com/Mohammad-Rakibuzzaman/wallpaper-store#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
 }
