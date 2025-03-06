@@ -17,3 +17,9 @@ npm install express mongoose dotenv
 * add **type** inside of package.json to use module or modern way to import export
 
 * Now write server.js file": [server.js](https://prnt.sc/pLRCYHB_d1TX)
+
+* Lets install nodemon so that when we update our server it will inform us update frequently: 
+```
+npm i nodemon -D
+```
+here -D means dev dependencies inside of package.json file and we can also add inside of scripts "type" : "nodemon backend/ server.js"
